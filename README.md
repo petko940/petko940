@@ -1,10 +1,9 @@
-
+### Hi there 👋 my name is Petko
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/100520661/190478509-a086bee4-cb5b-4bcf-b62f-9fcb0bdba0a1.gif" />
+  <img src="https://user-images.githubusercontent.com/100520661/190483447-e05d90bb-efa0-48c6-bae5-b5b751a8b917.gif" />
 </p>
 
 
-### Hi there 👋 my name is Petko
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
