@@ -17,12 +17,5 @@
 ![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=git&logoColor=white)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=petko940&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=petko940&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=petko940&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 ---
-
 [![](https://visitcount.itsvg.in/api?id=petko940&icon=0&color=9)](https://visitcount.itsvg.in)
-
