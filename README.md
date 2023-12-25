@@ -7,15 +7,11 @@
 </p>
 
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-C8B44F?style=for-the-badge&logo=javascript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=git&logoColor=white)
 
+# 💻 Tech Stack:
+
+[![My Skills](https://skillicons.dev/icons?i=py,django,html,css,js,idea,vscode,docker,postgres,git)](https://github.com/petko940)
+![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=petko940&icon=0&color=9)](https://visitcount.itsvg.in)
