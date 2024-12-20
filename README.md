@@ -10,7 +10,7 @@
 
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,html,css,js,angular,idea,vscode,docker,postgres,git)](https://github.com/petko940)
+[![My Skills](https://skillicons.dev/icons?i=py,django,html,css,js,react,angular,idea,vscode,docker,postgres,git)](https://github.com/petko940)
 ![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=git&logoColor=white)
 
 ---
